@@ -1,0 +1,4 @@
+web speech API
+ https://github.com/mdn/web-speech-api
+vibration api
+https://github.com/Illyism/jquery.vibrate.js
